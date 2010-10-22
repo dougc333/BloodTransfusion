@@ -202,46 +202,6 @@
 			<key>Content</key>
 			<dict>
 				<key>PBXProjectModuleGUID</key>
-				<string>243678781253CA8500FA4857</string>
-				<key>PBXProjectModuleLabel</key>
-				<string>BloodTranfusionModel.m</string>
-				<key>PBXSplitModuleInNavigatorKey</key>
-				<dict>
-					<key>Split0</key>
-					<dict>
-						<key>PBXProjectModuleGUID</key>
-						<string>243678791253CA8500FA4857</string>
-						<key>PBXProjectModuleLabel</key>
-						<string>BloodTranfusionModel.m</string>
-						<key>_historyCapacity</key>
-						<integer>0</integer>
-						<key>bookmark</key>
-						<string>24D94C9712702C490050F2F6</string>
-						<key>history</key>
-						<array>
-							<string>247F1F6C126A19E30090C936</string>
-						</array>
-					</dict>
-					<key>SplitCount</key>
-					<string>1</string>
-				</dict>
-				<key>StatusBarVisibility</key>
-				<true/>
-			</dict>
-			<key>Geometry</key>
-			<dict>
-				<key>Frame</key>
-				<string>{{0, 20}, {1302, 639}}</string>
-				<key>PBXModuleWindowStatusBarHidden2</key>
-				<false/>
-				<key>RubberWindowFrame</key>
-				<string>138 198 1302 680 0 0 1440 878 </string>
-			</dict>
-		</dict>
-		<dict>
-			<key>Content</key>
-			<dict>
-				<key>PBXProjectModuleGUID</key>
 				<string>2436784B1253C9B300FA4857</string>
 				<key>PBXProjectModuleLabel</key>
 				<string>BloodTranfusionModel.h</string>
@@ -256,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>24D94C9812702C490050F2F6</string>
+						<string>24D94CE91270C4180050F2F6</string>
 						<key>history</key>
 						<array>
 							<string>247F1F6D126A19E30090C936</string>
@@ -276,6 +236,46 @@
 				<false/>
 				<key>RubberWindowFrame</key>
 				<string>138 191 1302 680 0 0 1440 878 </string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<dict>
+				<key>PBXProjectModuleGUID</key>
+				<string>243678781253CA8500FA4857</string>
+				<key>PBXProjectModuleLabel</key>
+				<string>BloodTranfusionModel.m</string>
+				<key>PBXSplitModuleInNavigatorKey</key>
+				<dict>
+					<key>Split0</key>
+					<dict>
+						<key>PBXProjectModuleGUID</key>
+						<string>243678791253CA8500FA4857</string>
+						<key>PBXProjectModuleLabel</key>
+						<string>BloodTranfusionModel.m</string>
+						<key>_historyCapacity</key>
+						<integer>0</integer>
+						<key>bookmark</key>
+						<string>24D94CEA1270C4180050F2F6</string>
+						<key>history</key>
+						<array>
+							<string>247F1F6C126A19E30090C936</string>
+						</array>
+					</dict>
+					<key>SplitCount</key>
+					<string>1</string>
+				</dict>
+				<key>StatusBarVisibility</key>
+				<true/>
+			</dict>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 20}, {1302, 639}}</string>
+				<key>PBXModuleWindowStatusBarHidden2</key>
+				<false/>
+				<key>RubberWindowFrame</key>
+				<string>36 167 1302 680 0 0 1440 878 </string>
 			</dict>
 		</dict>
 	</array>
@@ -407,7 +407,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>24D94C9612702C490050F2F6</string>
+										<string>24D94CE81270C4180050F2F6</string>
 										<key>history</key>
 										<array>
 											<string>24D94C7A127021B80050F2F6</string>
@@ -613,10 +613,8 @@
 	<array>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>24B3F0C61246CE00005DEC08</string>
-		<string>2436784B1253C9B300FA4857</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>/Users/dougc333/Desktop/xcode experiments/cis312/BloodTranfusion/BloodTranfusion.xcodeproj</string>
-		<string>243678781253CA8500FA4857</string>
 	</array>
 	<key>WindowString</key>
 	<string>156 156 1228 722 0 0 1440 878 </string>
@@ -792,10 +790,10 @@
 									<key>Frame</key>
 									<string>{{316, 0}, {378, 203}}</string>
 									<key>RubberWindowFrame</key>
-									<string>661 433 694 422 0 0 1440 878 </string>
+									<string>504 377 694 422 0 0 1440 878 </string>
 								</dict>
 								<key>RubberWindowFrame</key>
-								<string>661 433 694 422 0 0 1440 878 </string>
+								<string>504 377 694 422 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugSessionModule</string>
@@ -829,11 +827,11 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
 			<key>WindowString</key>
-			<string>661 433 694 422 0 0 1440 878 </string>
+			<string>504 377 694 422 0 0 1440 878 </string>
 			<key>WindowToolGUID</key>
 			<string>1CD10A99069EF8BA00B06720</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>
